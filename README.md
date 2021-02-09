@@ -10,6 +10,8 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 ## Brief Overview of Dataset
 
+Source: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones   
+
 1. Accelerometer and Gyroscope readings are taken from 30 volunteers(referred as subjects) while performing the following 6 Activities.
 Walking
 WalkingUpstairs
