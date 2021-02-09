@@ -98,10 +98,10 @@ Lying.
 2. Compare the performance of ML models on expert engineered features against that of DL model on the raw time series data
 
 ## References
-https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones 
-https://www.appliedaicourse.com/ 
-https://www.coursera.org/specializations/deep-learning 
-https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones   
+https://www.appliedaicourse.com/   
+https://www.coursera.org/specializations/deep-learning   
+https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones   
 
 
 
